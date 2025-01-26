@@ -14,8 +14,8 @@
 Создать виртуальное окружение python -m venv venv
 Активировать виртуальное окружение source venv/bin/activate на Linux/MacOS или .\venv\Scripts\activate.bat на Windows
 Установить зависимости pip install -r requirements.txt
-Либо через PyCharm:
 
+Либо через PyCharm:
 Склонировать репозиторий через File -> Project from Version Control
 Установить зависимости через File -> Settings -> Project Interpreter или через pip install -r requirements.txt
 Создание Django project
